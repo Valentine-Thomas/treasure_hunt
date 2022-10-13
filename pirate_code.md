@@ -41,6 +41,6 @@ get your fair share of the prize!
 
 Captain      : Valentine Thomas
 Quartermaster: NAME_HERE
-First mate   : NAME_HERE
+First mate   : Johannes Gawron
 
 
